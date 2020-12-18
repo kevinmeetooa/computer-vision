@@ -8,9 +8,10 @@ Thèmes abordés pour le moment:
 - Modèle Bag of Words
 - Réseaux de neurones
 - Réseaux de neurones convolutifs (CNN)
+- Architectures Deep Modernes: ImageNet, AlexNet, GoogLeNet, VGG Net
+- Transfer Learning
 
 Thèmes à venir:
-- Architectures Deep Modernes: ImageNet, AlexNet, GoogLeNet, VGG Net
 - Fully Convolutional Networks (FCNs)
 - Zero-shot learning
 - Generative models: Auto-Encoders, VAE, Generative Adversarial Networks (GANs)
